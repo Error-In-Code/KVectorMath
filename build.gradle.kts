@@ -2,8 +2,8 @@ plugins {
     kotlin("multiplatform") version "1.6.0"
 }
 
-group = "dev.error"
-version = "1.0-SNAPSHOT"
+group = "dev.error.KVectorMath"
+version = "1.0"
 
 repositories {
     mavenCentral()
